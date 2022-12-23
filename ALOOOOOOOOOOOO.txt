@@ -1,0 +1,5 @@
+my project is about an Ecommerce-Cart ,like online commerce,i made this project using : html,style.css,javascript,DOM,google-fonts,boxicons. 
+In this program	you will find responsive working JavaScript Cart. 
+You can add item to cart and remove,
+also you can increase and decrease item quantity with quantity change the total will automatically change. 
+If you try to add some item to cart you will see.
